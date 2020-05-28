@@ -1,0 +1,28 @@
+body{
+    background-image: url(../img/annie-spratt-xvU-X0GV9-o-unsplash.jpg);
+    margin-left: 20px;
+}
+header{
+    margin-top: 50px;
+}
+h2{
+    font-family: fantasy;
+}
+h1{
+    font-family: sans-serif;
+    color: violet;
+}
+
+footer{
+    margin-bottom: 30px;
+    margin-top: 50px;
+}
+
+img{
+    margin-bottom: auto;
+    width:300px;
+}
+
+.img_mau{
+    width: 700px;
+}
